@@ -1,0 +1,47 @@
+hereHere is the extracted VPS information from the image:
+
+Login Details:
+
+Username: mdismailofficial6@gmail.com
+
+Password: MrHt0zjZ^%!j
+
+Panel URLs:
+
+https://panel.vpsforvpn.com:4083
+
+http://panel.vpsforvpn.com:4082
+
+
+
+
+---
+
+VPS Details:
+
+Hostname: www.printstee.com
+
+VPSID: 6933
+
+Username: root
+
+Root Password: MrHt0zjZ^%!j
+Root Password: vps@123#
+
+
+IPv4 Address: 193.32.163.100
+
+IPv6 Address: 2a0c:9f00:a001:f6dd:0000:0000:0000:0001/64
+
+
+
+---
+
+VNC Details:
+
+VNC IP & Port: 192.30.242.197:6580
+
+VNC Password: bFEhbDKt
+
+
+Let me know if you need help setting up or connecting to thi

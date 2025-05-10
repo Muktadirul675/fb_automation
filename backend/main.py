@@ -23,7 +23,7 @@ origins = [
     "http://localhost:5173",  # for frontend like React/Next.js
     "http://localhost:4173",  # for frontend like React/Next.js
     "http://localhost:3000",  # for frontend like React/Next.js
-    "https://yourdomain.com",  # production domain
+    "https://glamorousgift.com/",  # production domain
 ]
 
 # Add CORS middleware

@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+.input {
+  @apply rounded border border-gray-300 px-2 py-1 outline-none
+}
+
+.btn {
+  @apply rounded text-white bg-blue-500 hover:bg-blue-700 transition-all cursor-pointer px-2 py-1
+}
+
+.btn-red {
+  @apply rounded text-white bg-red-500 hover:bg-red-700 transition-all cursor-pointer px-2 py-1
+}
+
+.animate-fade {
+  animation: fade 0.25s ease-out;
+}
+
+.period {
+  @apply h-1 w-1 rounded-full bg-gray-300
+}
+
+.badge {
+  @apply inline-block px-2 py-1 text-xs font-semibold rounded-full capitalize;
+}
+/* 
+.badge {
+  @apply px-2 py-1 rounded-full text-sm font-semibold inline-block;
+} */
+
+/* Status-specific colors */
+.status-pending {
+  @apply bg-yellow-100 text-yellow-800;
+}
+
+.status-error {
+  @apply bg-red-100 text-red-800;
+}
+
+.status-queued {
+  @apply bg-gray-100 text-gray-800;
+}
+
+.status-success {
+  @apply bg-green-100 text-green-800;
+}
+
+.status-published {
+  @apply bg-green-100 text-green-800;
+}
+
+.status-running {
+  @apply bg-indigo-100 text-indigo-800;
+}
+
+.label{
+  @apply font-semibold text-lg text-gray-800 
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+    scale: 0.1;
+  }
+
+  100% {
+    opacity: 1;
+    scale: 1;
+  }
+}

@@ -1,0 +1,35 @@
+# === Node (React frontend) ===
+frontend/node_modules/
+frontend/.env
+frontend/build/
+frontend/dist/
+frontend/.vite/
+frontend/.next/
+frontend/.turbo/
+frontend/token.txt
+
+# === Python (FastAPI backend) ===
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/.env
+backend/.venv/
+backend/env/
+backend/venv/
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.idea/
+backend/.vscode/
+backend/.DS_Store
+
+# === Global ===
+*.log
+*.sqlite3
+*.db
+.env
+*.bak
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
